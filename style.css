@@ -1,9 +1,9 @@
 body{
-   background-color:red;
-   color: black;
+background-color:black;
+color: white;
 display:flex;
 justify-content:space-around;
 align-items:center;
-padding:24px 0;
+padding: 24px 0;
 }
 
